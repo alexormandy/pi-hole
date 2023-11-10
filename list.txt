@@ -1,0 +1,21 @@
+All4:
+
+cdn.http.anno.channel4.com
+webstats.channel4.com
+monitor.channel4.com
+cdn.ss.anno.channel4.com
+c4ads.2cnt.net
+
+ITV:
+
+tom.itv.com
+itv-ads.aimatch.com
+
+My5:
+
+2356e.v.fwmrm.net
+
+These are a few extra used by multiple VOD platforms
+bilsyndication.com
+static.vliplatform.com
+toots-a.akamaihd.net
