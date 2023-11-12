@@ -10,6 +10,8 @@ ITV:
 
 tom.itv.com
 itv-ads.aimatch.com
+ar.prd.content.itv.com
+recommendations.prd.user.itv.com
 
 My5:
 
